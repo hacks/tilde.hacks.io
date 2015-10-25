@@ -1,0 +1,28 @@
+.boxes
+
+  .box.main
+    h2 tilde.hacks.io
+    p welcome to our small corner of the world wide web, a tiny ecosystem of education, inspiration, and creativity
+
+    p the server's managed by NU Hacks - get an account and learn how to use it at our <a href="http://hacks.io/events">weekly meetings</a>.
+
+    p as always, NU Hacks is a community of artists, programmers, makers, breakers, and rump shakers based out of Northeastern University - if this sounds like your scene we'd love to meet you :)
+    
+  .box
+    h2 recently updated tildes
+    ul
+      - var yesterday = +new Date()/1000 - 48*60*60 ;
+      for user in public._data.pagelist
+        if user.utctime > yesterday
+          li 
+            a(href="#{user.changed}") ~#{ user.username }
+            |  @ #{ user.modtime }
+  .box
+    h2 all community members
+    ul
+      - var byName = function(a,b){ if (a.username < b.username) return -1; else if (a.username > b.username) return 1; else return 0; }
+      - var usersByName = public._data.pagelist.sort(byName)
+      for user in public._data.pagelist
+        li
+          a(href="#{user.homepage}") #{ user.username }
+

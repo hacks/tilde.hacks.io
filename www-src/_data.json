@@ -1,0 +1,132 @@
+{ "pagelist" : [
+{  "username" : "john",
+   "homepage" : "http://tilde.hacks.io/~john",
+   "modtime" : "10/25/2015 15:41:32",
+   "utctime" : "1445802092",
+   "changed" : "http://tilde.hacks.io/~john/index.html"}
+,{  "username" : "jack",
+   "homepage" : "http://tilde.hacks.io/~jack",
+   "modtime" : "10/08/2015 23:21:05",
+   "utctime" : "1444360865",
+   "changed" : "http://tilde.hacks.io/~jack/index.html"}
+,{  "username" : "ali",
+   "homepage" : "http://tilde.hacks.io/~ali",
+   "modtime" : "10/03/2015 18:13:57",
+   "utctime" : "1443910437",
+   "changed" : "http://tilde.hacks.io/~ali/index.html"}
+,{  "username" : "ltsdj",
+   "homepage" : "http://tilde.hacks.io/~ltsdj",
+   "modtime" : "10/02/2015 16:58:12",
+   "utctime" : "1443819492",
+   "changed" : "http://tilde.hacks.io/~ltsdj/cgi-bin/.htaccess"}
+,{  "username" : "grapefruit",
+   "homepage" : "http://tilde.hacks.io/~grapefruit",
+   "modtime" : "10/02/2015 11:33:52",
+   "utctime" : "1443800032",
+   "changed" : "http://tilde.hacks.io/~grapefruit/index.html"}
+,{  "username" : "wtan",
+   "homepage" : "http://tilde.hacks.io/~wtan",
+   "modtime" : "10/01/2015 22:50:13",
+   "utctime" : "1443754213",
+   "changed" : "http://tilde.hacks.io/~wtan/index.html"}
+,{  "username" : "thallada",
+   "homepage" : "http://tilde.hacks.io/~thallada",
+   "modtime" : "10/01/2015 22:48:26",
+   "utctime" : "1443754106",
+   "changed" : "http://tilde.hacks.io/~thallada/index.html"}
+,{  "username" : "imapersonman",
+   "homepage" : "http://tilde.hacks.io/~imapersonman",
+   "modtime" : "10/01/2015 21:56:51",
+   "utctime" : "1443751011",
+   "changed" : "http://tilde.hacks.io/~imapersonman/index.html"}
+,{  "username" : "prk",
+   "homepage" : "http://tilde.hacks.io/~prk",
+   "modtime" : "10/01/2015 21:53:31",
+   "utctime" : "1443750811",
+   "changed" : "http://tilde.hacks.io/~prk/index.html"}
+,{  "username" : "cj",
+   "homepage" : "http://tilde.hacks.io/~cj",
+   "modtime" : "10/01/2015 21:29:45",
+   "utctime" : "1443749385",
+   "changed" : "http://tilde.hacks.io/~cj/index.html"}
+,{  "username" : "rodney",
+   "homepage" : "http://tilde.hacks.io/~rodney",
+   "modtime" : "09/30/2015 13:51:59",
+   "utctime" : "1443635519",
+   "changed" : "http://tilde.hacks.io/~rodney/hw3.html"}
+,{  "username" : "chris",
+   "homepage" : "http://tilde.hacks.io/~chris",
+   "modtime" : "09/21/2015 01:42:08",
+   "utctime" : "1442814128",
+   "changed" : "http://tilde.hacks.io/~chris/index.html"}
+,{  "username" : "chrisbrown",
+   "homepage" : "http://tilde.hacks.io/~chrisbrown",
+   "modtime" : "09/20/2015 15:32:16",
+   "utctime" : "1442777536",
+   "changed" : "http://tilde.hacks.io/~chrisbrown/index.html"}
+,{  "username" : "smurtleturtle",
+   "homepage" : "http://tilde.hacks.io/~smurtleturtle",
+   "modtime" : "09/17/2015 22:05:31",
+   "utctime" : "1442541931",
+   "changed" : "http://tilde.hacks.io/~smurtleturtle/index.html"}
+,{  "username" : "ryan",
+   "homepage" : "http://tilde.hacks.io/~ryan",
+   "modtime" : "09/17/2015 22:02:45",
+   "utctime" : "1442541765",
+   "changed" : "http://tilde.hacks.io/~ryan/index.html"}
+,{  "username" : "dan",
+   "homepage" : "http://tilde.hacks.io/~dan",
+   "modtime" : "09/17/2015 22:02:01",
+   "utctime" : "1442541721",
+   "changed" : "http://tilde.hacks.io/~dan/index.html"}
+,{  "username" : "luke",
+   "homepage" : "http://tilde.hacks.io/~luke",
+   "modtime" : "09/17/2015 19:32:21",
+   "utctime" : "1442532741",
+   "changed" : "http://tilde.hacks.io/~luke/index.html"}
+,{  "username" : "leena",
+   "homepage" : "http://tilde.hacks.io/~leena",
+   "modtime" : "09/17/2015 15:17:41",
+   "utctime" : "1442517461",
+   "changed" : "http://tilde.hacks.io/~leena/index.html"}
+,{  "username" : "alice",
+   "homepage" : "http://tilde.hacks.io/~alice",
+   "modtime" : "09/14/2015 17:59:14",
+   "utctime" : "1442267954",
+   "changed" : "http://tilde.hacks.io/~alice/index.html"}
+,{  "username" : "kanye",
+   "homepage" : "http://tilde.hacks.io/~kanye",
+   "modtime" : "09/11/2015 10:53:58",
+   "utctime" : "1441983238",
+   "changed" : "http://tilde.hacks.io/~kanye/index.html"}
+,{  "username" : "isaac",
+   "homepage" : "http://tilde.hacks.io/~isaac",
+   "modtime" : "09/10/2015 22:22:51",
+   "utctime" : "1441938171",
+   "changed" : "http://tilde.hacks.io/~isaac/index.html.save"}
+,{  "username" : "mark",
+   "homepage" : "http://tilde.hacks.io/~mark",
+   "modtime" : "09/10/2015 21:33:11",
+   "utctime" : "1441935191",
+   "changed" : "http://tilde.hacks.io/~mark/index.html"}
+,{  "username" : "j",
+   "homepage" : "http://tilde.hacks.io/~j",
+   "modtime" : "09/10/2015 21:22:53",
+   "utctime" : "1441934573",
+   "changed" : "http://tilde.hacks.io/~j/index.html"}
+,{  "username" : "nj",
+   "homepage" : "http://tilde.hacks.io/~nj",
+   "modtime" : "09/10/2015 14:28:48",
+   "utctime" : "1441909728",
+   "changed" : "http://tilde.hacks.io/~nj/index.html"}
+,{  "username" : "milo",
+   "homepage" : "http://tilde.hacks.io/~milo",
+   "modtime" : "09/08/2015 20:09:20",
+   "utctime" : "1441757360",
+   "changed" : "http://tilde.hacks.io/~milo/index.html"}
+,{  "username" : "admin",
+   "homepage" : "http://tilde.hacks.io/~admin",
+   "modtime" : "12/31/1969 19:00:00",
+   "utctime" : "0",
+   "changed" : "http://tilde.hacks.io/~admin/"}
+]}
